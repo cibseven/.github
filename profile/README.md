@@ -30,6 +30,10 @@ It was created by [CIB software GmbH](https://www.cib.de/en/) as a fork of [Camu
 * [Contact Form](https://cibseven.org/en/contact/)
 * [Email ](mailto:info@cibseven.org)
 
+# Community Projects
+
+* [CIB seven Community Hub](https://github.com/cibseven-community-hub) is a place to fork Camunda 7 community projects to migrate them to CIB seven
+
 <!--
 
 **Here are some ideas to get you started:**
