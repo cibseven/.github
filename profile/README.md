@@ -1,6 +1,6 @@
 ## CIB seven is the open source BPM engine
 
-It was created by [CIB software GmbH](https://www.cib.de/en/) as a fork of [Camunda 7](https://github.com/camunda/camunda-bpm-platform), as a long-term alternative for the migration from Camunda 7
+It was created by [CIB software GmbH](https://www.cib.de/en/) as a fork of [Camunda 7](https://github.com/camunda/camunda-bpm-platform), with an easy migration path and long-term support
 
 # Main Repositories
 
@@ -11,7 +11,7 @@ It was created by [CIB software GmbH](https://www.cib.de/en/) as a fork of [Camu
 # Development Resources
 
 * [CIB seven Artifacts / public](https://artifacts.cibseven.org/#browse/browse:public) here are the Maven released artifacts in our own artifactory
-* [CIB seven Artifacts / snapshots](https://artifacts.cibseven.org/#browse/browse:snapshots) heere are the SNAPSHOT versions for the development
+* [CIB seven Artifacts / snapshots](https://artifacts.cibseven.org/#browse/browse:snapshots) here are the SNAPSHOT versions for the development
 * [Maven Central](https://central.sonatype.com/search?q=org.cibseven) CIB seven artifacts are also deployed to Maven Central
 * [Docker Hub](https://hub.docker.com/r/cibseven/cibseven/tags) released and development docker images can be used directly from the DockerHub
 
