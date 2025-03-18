@@ -6,7 +6,7 @@ It was created by [CIB software GmbH](https://www.cib.de/en/) as a fork of [Camu
 
 * [CIB seven](https://github.com/cibseven/cibseven) here is the main source code of the BPM platform
 * [CIB seven Docker](https://github.com/cibseven/cibseven-docker) here are the resources for building the docker images
-* [CIB seven Migraion](https://github.com/cibseven/cibseven-migration) here is the OpenRewrite based project for migration from "org.camunda" namespace to "org.cibseven"
+* [CIB seven Migration](https://github.com/cibseven/cibseven-migration) here is the OpenRewrite based project for migration from "org.camunda" namespace to "org.cibseven"
 
 # Development Resources
 
