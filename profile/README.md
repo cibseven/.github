@@ -5,7 +5,7 @@ It was created by [CIB software GmbH](https://www.cib.de/en/) as a fork of [Camu
 # Main Repositories
 
 * [CIB seven](https://github.com/cibseven/cibseven) here is the main source code of the BPM platform
-* [CIB seven WebClient](https://github.com/cibseven/cibseven-webclient) a new Frontend for the CIB seven
+* [CIB seven Web Client](https://github.com/cibseven/cibseven-webclient) a new Frontend for the CIB seven
 * [CIB seven Docker](https://github.com/cibseven/cibseven-docker) here are the resources for building the docker images
 * [CIB seven Migration](https://github.com/cibseven/cibseven-migration) here is the OpenRewrite based project for migration from "org.camunda" namespace to "org.cibseven"
 
@@ -21,7 +21,6 @@ It was created by [CIB software GmbH](https://www.cib.de/en/) as a fork of [Camu
 * [Web Site](https://cibseven.org/en/) our official website
 * [Documentation](https://docs.cibseven.org/manual/latest/)
   * [Camunda Migration](https://docs.cibseven.org/manual/latest/update/camunda/)
-* [UI Preview](https://cibseven.org/en/ui-preview/#preview) Screenshots of the new Vue.js UI, becomming Open Source shortly
 * [Download](https://cibseven.org/en/download/) download links for different distributions
 
 # Communication Channels
